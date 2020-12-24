@@ -1,1 +1,1 @@
-# MCUcode  cihaz sürücüsü  kiran nıyak tarafından öğrendim  ve yazdım iletişim protokolleri üzerine yazdım ve uygulamalar mevcuttur.
+# MCUcode  cihaz sürücüsü  kiran nıyak tarafından  öğrendim ve onun yazdığı sürücüyle aynı olan sürücüyü kendim yazdım.İletişim prokolleri  üzerine  yazdım ve uygulamaları mevcuttur.
